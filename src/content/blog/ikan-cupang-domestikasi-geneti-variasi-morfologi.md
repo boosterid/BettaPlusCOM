@@ -8,7 +8,7 @@ tag:
 ---
 
 ## Asal dan Sejarah Domestikasi
-Ikan cupang (Betta splendens) berasal dari Thailand tengah dan daerah hilir Sungai Mekong. Awalnya, ikan ini dibudidayakan bukan sebagai ikan hias, melainkan sebagai ikan aduan yang digunakan dalam perjudian, mirip dengan adu ayam. Seiring waktu, melalui pembiakan terkontrol, ikan cupang berkembang menjadi spesies dengan variasi morfologi dan perilaku yang beragam, termasuk perbedaan dalam tingkat agresivitas, warna tubuh, ukuran, dan bentuk sirip.
+Ikan cupang (Betta splendens) berasal dari Thailand tengah dan daerah hilir Sungai Mekong. Berabad-abad lalu, ikan cupang awalnya dibudidayakan untuk meningkatkan agresivitasnya sebagai ikan laga (aduan), sebagai bentuk hiburan dan perjudian. Namun, seiring waktu, para peternak di Thailand mulai melakukan seleksi genetik untuk mengembangkan berbagai variasi warna dan bentuk sirip yang lebih menarik bagi pasar.Melalui pembiakan terkontrol, ikan cupang berkembang menjadi spesies dengan variasi morfologi dan perilaku yang beragam, termasuk perbedaan dalam tingkat agresivitas, warna tubuh, ukuran, dan bentuk sirip.
 
 ## Potensi Ikan Cupang sebagai Model Genetik
 Ikan cupang dikenal mudah dibudidayakan dan dirawat, menjadikannya subjek penelitian yang ideal dalam memahami dasar genetika yang mempengaruhi perilaku dan morfologi pada vertebrata. Keanekaragaman fenotipe dalam spesies ini memberikan peluang besar untuk mengeksplorasi bagaimana seleksi langsung dan tidak langsung oleh manusia telah membentuk karakteristik ikan cupang domestik.
