@@ -4,6 +4,7 @@ description: "Variasi genetika ikan cupang (Betta Splendens) yang membuatnya men
 date: "2025-03-06"
 tag:
   - genetika
+  - penelitian
 ---
 
 Genetik ikan cupang (betta splendens) telah menghasilkan variasi menarik ikan ini. Ia dikenal memiliki variasi morfologi yang luar biasa sebagai hasil seleksi selama proses domestikasi. Dasar genetik yang mendasari berbagai karakteristik unik ini masih belum sepenuhnya dipahami. Tidak sedikit peneliti yang kemudian mendedikasikan dirinya untuk meneliti secara khusus ikan ini.
